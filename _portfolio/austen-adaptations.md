@@ -1,6 +1,6 @@
 ---
 title: "Austen Adaptations"
-excerpt: "An Ongoing Project Cataloguing Adaptations of Jane Austen's Corpus<br/><img src='/images/Austen_Adaptations.png'>"
+excerpt: "An Ongoing Project Cataloguing Adaptations of Jane Austen's Corpus"
 collection: portfolio
 ---
 
