@@ -17,7 +17,7 @@ This summer, I am planning to look into:
   <li>Austen's married couples</li>
   <li>William Beckford's Islamic inspiration</li>
   <li>Cataloguing modern adaptations of classics</li>
-  <li>"Otuel the Knight," and Earl Modern anxieties of conversion</li>
+  <li>"Otuel the Knight," and Early Modern anxieties of conversion</li>
 </ul>
 
 My overarching interests remain in Austen studies, namely close-reading the novels, finding pairings for teaching the novels alongside Austen's contemporaries, and in seeking out and analyzing more of the various adaptations of Austen's work in the modern age. I am currently particularly interested in looking out for games based around Austen's work. 
