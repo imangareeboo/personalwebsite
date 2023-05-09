@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in English and French, Rollins College, 2018
+* M.A. in Postcolonial Studies, SOAS, University of London, 2020
+* Coursework for Ph.D in English, University of Miami, 2027 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2022: 5th grade Lead Teacher
+  * Leaders Preparatory School
+  * Duties included: 4th grade ELA, 5th grade EA, 5th grade Social Studies
+  * Headmistress: Dr. Feryal Elkhaldi 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2020: Teacher's Assistant in Pertuis, France
+  * Aimée Césaire Preschool, Henri Crevat Elementary and Pierre Augier Elementary
+  * Duties included: Working with Lead Teacher Curriculum, Verbal Exercises for Students
+  * Supervisor: Marie-Pierre Hiriart
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * English (native)
+  * French (intermediate-advanced)
+  * Mauritian Kreol (intermediate-conversational)
+  * Arabic (super novice)
+  * Farsi (1 year intro at SOAS)
+  * Spanish (1 year of middle school, novice understanding)
+
+* Writing Editor
+  * worked at Rollins College
+  * worked at the University of Miami
+  * writing editor on a comic book published in 2012-2013
+
+* Violinist
+  * Rollins College Orchestra 2018-2019
+  * Twice nominated to Florida All-State Honors Orchestras in middle and high school
+  * FYAO (Florida Young Artists Orchestra) 2009-2014
 
 Publications
 ======
@@ -56,4 +67,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Rollins College
+  * President of the Off-Campus Student Association
+  * President of MECCA: Middle Eastern Cultural and Cuisine Association
+  * President of Dean's Scholars Council 
+
+* Henna Artist
+  * Volunteer artist for community events and school fundraisers
+
