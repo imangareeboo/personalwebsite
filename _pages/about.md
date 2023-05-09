@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "About Iman"
+excerpt: "Iman Gareeboo bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Iman Gareeboo and I am currently doing coursework for a Phd in English at the University of Miami in Coral Gables, Florida. My studies span English and Francophone literature, and I have written various papers for classes on modern film adaptations of Shakespeare's plays, post-colonial responses to Albert Camus *L'étranger*, issues in Disney's portrayal of minorities in *Aladdin* and *The Princess and the Frog*, and critical fabulations of women glossed over in archival documents. 
+I am currently doing coursework for a Phd in English at the University of Miami in Coral Gables, Florida. My studies span English and Francophone literature, and I have written various papers for classes on modern film adaptations of Shakespeare's plays, post-colonial responses to Albert Camus *L'étranger*, issues in Disney's portrayal of minorities in *Aladdin* and *The Princess and the Frog*, and critical fabulations of women glossed over in archival documents. 
 
 Current Research
 ======
