@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Iman Gareeboo and I am currently doing coursework for a Phd in English at the University of Miami in Coral Gables, Florida. My studies span English and Francophone literature, and I have written various papers for classes on modern film adaptations of Shakespeare's plays, post-colonial responses to Albert Camus *L'étranger*, issues in Disney's portrayal of minorities in *Aladdin* and *The Princess and the Frog*, and critical fabulations of women glossed over in archival documents. 
 
-A data-driven personal website
+Current Research
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+This summer, I am planning to look into: 
+<ul>
+  <li>Austen's married couples</li>
+  <li>William Beckford's Islamic inspiration</li>
+  <li>Cataloguing modern adaptations of classics</li>
+  <li>"Otuel the Knight," and Earl Modern anxieties of conversion</li>
+</ul>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My overarching interests remain in Austen studies, namely close-reading the novels, finding pairings for teaching the novels alongside Austen's contemporaries, and in seeking out and analyzing more of the various adaptations of Austen's work in the modern age. I am currently particularly interested in looking out for games based around Austen's work. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Background
+=======
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Academic & Professional
+-----
+I went to primary school in Austen, Texas, USA; Port Louis, Mauritius; and Orlando, Florida, USA. My secondary schooling was entirely in Orlando, Fl, and I did my undergraduate degree at Rollins College in Winter Park, Florida. I went to work in France, where I took part in TAPIF: Teaching Assistant Program in France for the school year of 2018-2019. I then went back to school, completing my MA at SOAS, University of London and received my degree confirmation in December 2020. 
 
-**Markdown generator**
+During the pandemic, I tutored my younger brother through 5th grade, which he completed through FLVS: Florida Virtual School. In the 2021-2022 school year, I taught 4th grade English and 5th grade English and Social Studies at Leaders Preparatory School in Orlando, FL, a private Muslim school. 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+I was accepted to the University of Miami's English Phd Program in Spring of 2022, and began coursework in August 2022. I worked in the Writing Center during the first year, and will be teaching WRS 105 and WRS 106 in the 2023-2024 school year.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Personal
+-----
+My parents were raised in Mauritius, an independent island located in the Indian Ocean, east of Madagascar and the East coast of Africa. Geographically, Mauritius is associated with the African continent, but this is complicated by the fact that it is a volcanic island and had no indigenous human population. As a result, the ethnic makeup of the island is entirely based on who visited, or was brought, to the island. As such, Mauritius has a mix of French and English influence, as we were colonized by both, although the Portuguese and the Arabs visited, and the Dutch failed twice to create lasting settlements. There is also a creole population, made up of the mix of people brought to the island (Malagasy, East African, West African, Dutch, French, English, Bengali, Tamil, Portuguese,etc.), and sections of the population that can tie their ancestry more clearly to Hindu Indian, Muslim Indian, and Chinese immigrants.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+My father was born in England, my mother in Mauritius; I was born in Nottingham, England when my parents lived after marriage. Before I turned 3, my parents relocated to Dallas, Texas and then Austin, Texas, where I began school. We returned to Mauritius when I was 7 years old to reconnect with my parents' families, both sides of which mostly live in Mauritius and England. We returned to the US in May 2005, this time in Florida, where we have lived ever since. 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
