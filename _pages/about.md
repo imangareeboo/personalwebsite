@@ -8,19 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am currently doing coursework for a Phd in English at the University of Miami in Coral Gables, Florida. My studies span English and Francophone literature, and I have written various papers for classes on modern film adaptations of Shakespeare's plays, post-colonial responses to Albert Camus *L'étranger*, issues in Disney's portrayal of minorities in *Aladdin* and *The Princess and the Frog*, and critical fabulations of women glossed over in archival documents. 
+I am currently in my exam year in the Phd program for English at the University of Miami in Coral Gables, Florida. My studies span English and Francophone literature, and I have written various papers for classes on modern film adaptations of Shakespeare's plays, post-colonial responses to Albert Camus *L'étranger*, issues in Disney's portrayal of minorities in *Aladdin* and *The Princess and the Frog*, and critical fabulations of women glossed over in archival documents. 
 
 Current Research
 ======
-This summer, I am planning to look into: 
+I am working on my dissertation prospectus looking at
 <ul>
-  <li>Austen's married couples</li>
-  <li>William Beckford's Islamic inspiration</li>
-  <li>Cataloguing modern adaptations of classics</li>
-  <li>"Otuel the Knight," and Early Modern anxieties of conversion</li>
+  <li>Cataloguing Austen adaptations</li>
+  <li>Focusing on cultural and diasporic adaptations, mostly South Asian, of Austen's novels</li>
+  <li>Theorizing how diasporas use literary classics as vehicles for their own stories</li>
 </ul>
 
-My overarching interests remain in Austen studies, namely close-reading the novels, finding pairings for teaching the novels alongside Austen's contemporaries, and in seeking out and analyzing more of the various adaptations of Austen's work in the modern age. I am currently particularly interested in looking out for games based around Austen's work. 
+Other research interests I have include:
+<ul>
+  <li>William Beckford's Islamic inspirations in *Vathek*</li>
+  <li>Cataloguing modern adaptations of classics for pedagogical purposes</li>
+  <li>"Otuel the Knight," and Early Modern anxieties of conversion</li>
+  <li>Outlining research on a diachronic analysis of anti-Islamic sentiment in Western literature</li>
+</ul>
+
+My overarching interests remain in Austen studies, namely close-reading the novels, finding pairings for teaching the novels alongside Austen's contemporaries, and in seeking out and analyzing more of the various adaptations of Austen's work in the modern age. However, as my learning theory interests evolve to meet the difficulties students have in speaking about complex subjects, I find myself being drawn to researching patterns across time in the rhetorics of power and coloniality to better plan for classes geared towards developing critical thinking and awareness. 
 
 
 Background
@@ -32,7 +39,7 @@ I went to primary school in Austen, Texas, USA; Port Louis, Mauritius; and Orlan
 
 During the pandemic, I tutored my younger brother through 5th grade, which he completed through FLVS: Florida Virtual School. In the 2021-2022 school year, I taught 4th grade English and 5th grade English and Social Studies at Leaders Preparatory School in Orlando, FL, a private Muslim school. 
 
-I was accepted to the University of Miami's English Phd Program in Spring of 2022, and began coursework in August 2022. I worked in the Writing Center during the first year, and will be teaching WRS 105 and WRS 106 in the 2023-2024 school year.
+I was accepted to the University of Miami's English Phd Program in Spring of 2022, and began coursework in August 2022. I worked in the Writing Center during the first year, and taught WRS 105 and WRS 106 in the 2023-2024 school year. I am currently the Writing Studies Fellow for the 2024-2025 
 
 Personal
 -----
