@@ -21,7 +21,7 @@ I am working on my dissertation prospectus looking at:
 
 Other research interests I have include:
 <ul>
-  <li>William Beckford's Islamic inspirations in *Vathek*</li>
+  <li>William Beckford's Islamic inspirations in his novel</li>
   <li>Cataloguing modern adaptations of classics for pedagogical purposes</li>
   <li>"Otuel the Knight," and Early Modern anxieties of conversion</li>
   <li>Outlining research on a diachronic analysis of anti-Islamic sentiment in Western literature</li>
