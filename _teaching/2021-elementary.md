@@ -8,8 +8,6 @@ date: 2021-05-30
 location: "Orlando, Florida"
 ---
 
-Elementary Teaching Roles
------
 
 **5th grade Lead Teacher, Subjects: ELA and SS**
 
